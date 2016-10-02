@@ -9,7 +9,20 @@ body {
 }
 
 /* This is a comment, by the way */
+#android {
+    font-size: 60px;font-family: "Arial";
+    background-color:#f9ff8e;border-radius:110px;
+}
 
+.button {
+    display: inline-block;
+    padding: 1em;
+    background-color: #79BD9A;
+    text-decoration: none;
+    color: white;
+}
+    
+}
 
 p {
     font: 14px/1.5 "Times New Roman", times, serif;
